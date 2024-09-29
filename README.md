@@ -5,27 +5,7 @@ This project is a simple user registration form built with **Node.js**, **Expres
 
 ## Project Structure
 
-project-root/
-│
-├── backend/
-│   ├── config/
-│   │   └── database.js      # SQLite connection setup
-│   ├── models/
-│   │   ├── user.js          # User model
-│   │   └── address.js       # Address model
-│   ├── routes/
-│   │   └── index.js         # API routes
-│   ├── controllers/
-│   │   └── userController.js# User and Address logic
-│   ├── app.js               # Express app setup
-│   └── package.json         # Backend dependencies
-│
-├── frontend/
-│   ├── index.html           # Simple form to register user and address
-│   ├── styles.css           # Basic styling (optional)
-│   └── app.js               # Frontend JS to send form data via AJAX
-│
-└── README.md                # Project setup and details
+![image](https://github.com/user-attachments/assets/2110018f-a666-4548-bac0-ec89067ad39e)
 
 
 ## Features
